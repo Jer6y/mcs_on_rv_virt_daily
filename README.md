@@ -20,3 +20,8 @@ MCS混合部署 linux + uniproton on qemu-virt 日跟进进度
   - MCS移植进展
 - 调研方面
   - 继续学习内核驱动，bus , driver ,device 等等相关的知识
+
+# 2024-02-09
+
+- MCS混合部署
+  - [device_tree 相关](dev_tree/dts.md)
